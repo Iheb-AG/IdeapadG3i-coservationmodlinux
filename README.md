@@ -53,7 +53,7 @@ sudo chmod +x path/to/CM_switch.sh
 ************************************************************adding this line to you shell configuration file (.bashrc or .zshrc)************************************************************
 
 ```bash
-alias cmode="sudo ~/Desktop/BCMD/CM_switch.sh"
+alias cmode="sudo path/to/where/CM_switch.sh"
 ```
 
 
