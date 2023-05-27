@@ -66,7 +66,7 @@ source <path-to-shell-configuration>
 
 ### 5 - executing the script
 
-*********************************************************************to check the state of you conservation_mode : *********************************************************************
+*********************************************************************to check the state of you conservation_mode:*********************************************************************
 
 
 ***0 : conservation mode is disabled***
