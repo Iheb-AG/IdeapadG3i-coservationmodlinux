@@ -1,7 +1,7 @@
 # IdeapadG3i-coservationmodlinux
 a simple bash file which lets you control your battery conservation mode in your linux driven lenovo ideapad gaming 3i
 
-#FAQ
+## FAQ
 
 ### What is Conservation mode ?
 
